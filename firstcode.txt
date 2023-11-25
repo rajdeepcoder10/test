@@ -3,3 +3,5 @@
 #define size 5
 int i,ch;
 int stack[size];
+void push();
+void pop();
