@@ -5,3 +5,9 @@ int i,ch;
 int stack[size];
 void push();
 void pop();
+void display();
+void peek();
+void main()
+{
+  printf("**Main menu**");
+  }
