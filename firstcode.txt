@@ -7,4 +7,5 @@ void push();
 void pop();
 void display();
 void peek();
-void main()
+void enqueue();
+void dequeue();
